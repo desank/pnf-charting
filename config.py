@@ -1,7 +1,7 @@
 # config.py
 
 # Replace "YOUR_API_KEY" with your actual Alpha Vantage API key
-ALPHA_VANTAGE_API_KEY = "O2A3QY0576C6Y8GD"
+ALPHA_VANTAGE_API_KEY = "API_KEY"
 
 # -- Chart Settings --
 # The stock ticker symbol to chart (e.g., "AAPL" for Apple)
